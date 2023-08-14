@@ -1,0 +1,9 @@
+{
+	"name": "olympicdf8",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e504617e-1a10-4b47-b9ec-204febddfa72",
+		"tenantId": "c5746376-91da-4de6-9e7e-d6ca44ad826f"
+	}
+}
